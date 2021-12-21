@@ -7,7 +7,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/saulo-silva/simple-component-library-saulo"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
